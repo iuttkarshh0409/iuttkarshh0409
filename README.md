@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on upgrading my Coding Skills<br>👯 I’m looking to collaborate on minor projects of Full Stack Development<br>🤝 I’m looking for help with React JS<br>🌱 I’m currently learning DSA with C/C++ and DBMS<br>
+🔭 I am currently working on upgrading my Coding Skills<br>👯 I’m looking to collaborate on minor projects of Full Stack Development<br>🤝 I’m looking for help with React JS<br>🌱 I’m currently learning DSA with C/C++ and DBMS<br>
 
 
 ## 🌐 Socials:

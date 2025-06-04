@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on upgrading my Coding and Debugging skills<br>👯 I’m looking to collaborate on Minor  and Major projects of Full Stack Development<br>🤝 I’m looking for help with React JS<br>🌱 I’m currently learning Java (Intermediate) and Unix Shell Scripting<br>⚡ Fun fact: To be Revealed soon....
+🔭 I’m currently working on upgrading my Coding and Debugging skills<br>👯 I’m looking to collaborate on Minor  and Major projects of Core and Advanced Java<br>🤝 I’m looking for help with Java Collection Framework (JCF) and Spring Boot<br>🌱 I’m currently learning Python (Intermediate) and Data Science<br>⚡ Fun fact: To be Revealed soon....
 
 
 ## 🌐 Socials:

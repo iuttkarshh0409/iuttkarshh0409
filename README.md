@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on upgrading my coding and debugging skills  
 👯 I’m looking to collaborate on minor and major projects involving Core and Advanced Java  
-🤝 I’m eager to learn and improve my skills in the Java Collection Framework (JCF) and Spring Boot  
+🤝 I’m eager to learn and improve my skills in the Java Collection Framework (JCF).  
 🌱 I’m currently diving deeper into Python (Intermediate) and Data Science  
 ⚡ **Fun fact:** I once debugged code faster than my coffee brewed.  
 

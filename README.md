@@ -98,7 +98,7 @@ Here are some projects I'm particularly proud of, showcasing my skills and passi
 
 <div align="center">
 
-### 🌊 [AquaSentinel – Explainable Groundwater Forecasting & Decision Support](https://github.com/iuttkarshh0409/AquaSentinel)
+### 🌊 [AquaSentinel – Explainable Groundwater Forecasting & Decision Support](https://github.com/iuttkarshh0409/aquasentinel-indore)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=iuttkarshh0409\&repo=aquasentinel-indore\&theme=tokyonight)](https://github.com/iuttkarshh0409/aquasentinel-indore)
 
@@ -122,7 +122,7 @@ Here are some projects I'm particularly proud of, showcasing my skills and passi
 
 ---
 
-### ⚡ [Portfolio Website - Interactive Showcase](https://github.com/iuttkarshh0409/portfolio-website) <!-- TODO: Replace with actual project and link -->
+### ⚡ [Portfolio Website - Interactive Showcase](https://github.com/iuttkarshh0409/swayam-sanchay) <!-- TODO: Replace with actual project and link -->
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=iuttkarshh0409&repo=swayam-sanchay&theme=tokyonight)](https://github.com/iuttkarshh0409/swayam-sanchay) <!-- TODO: Replace REPO_NAME with actual project repo name -->
 

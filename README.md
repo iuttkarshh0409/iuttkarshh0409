@@ -120,15 +120,6 @@ Here are some projects I'm particularly proud of, showcasing my skills and passi
 
 *An observability and reliability intelligence engine that transforms raw failure events into deterministic reliability signals. AERIS combines context-aware severity classification, confidence-based drift analysis, and autonomous auditing to help engineers identify systemic reliability risks instead of reacting to isolated failures.*
 
-**✨ Highlights**
-
-* 🧠 Deterministic severity classification with explainable logic traces
-* 📈 Confidence-aware drift analysis using sliding time windows
-* 🔥 Service heat detection through fault clustering
-* 📊 Historical reliability auditing via automated snapshots
-* ⚡ High-performance FastAPI backend with comprehensive REST APIs
-
-
 ---
 
 ### ⚡ [Portfolio Website - Interactive Showcase](https://github.com/iuttkarshh0409/portfolio-website) <!-- TODO: Replace with actual project and link -->
@@ -136,7 +127,6 @@ Here are some projects I'm particularly proud of, showcasing my skills and passi
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=iuttkarshh0409&repo=swayam-sanchay&theme=tokyonight)](https://github.com/iuttkarshh0409/swayam-sanchay) <!-- TODO: Replace REPO_NAME with actual project repo name -->
 
 **Tech Stack:** HTML5 • CSS3 • JavaScript • Vite
-**Status:** ✅ Completed
 *My personal interactive portfolio website, designed to showcase my projects, skills, and resume with a modern, responsive user experience.*
 
 </div>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="t d">
+<title id="t">AERIS V2 system visualization</title><desc id="d">A stylized event graph with connected reliability signal nodes.</desc>
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#190b12"/><stop offset="1" stop-color="#451126"/></linearGradient><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#e5b5c7" stroke-opacity=".06"/></pattern><filter id="g"><feGaussianBlur stdDeviation="5"/></filter></defs>
+<rect width="720" height="420" rx="22" fill="url(#b)"/><rect width="720" height="420" rx="22" fill="url(#grid)"/>
+<g fill="none" stroke="#c77b9b" stroke-opacity=".65" stroke-width="1.5">
+<path d="M95 210L205 125L325 180L445 92L585 155L640 275L500 320L360 265L220 320L95 210"/>
+<path d="M205 125L220 320M325 180L360 265M445 92L500 320M585 155L360 265" stroke-dasharray="5 7"/>
+</g>
+<g fill="#10070c" stroke="#e5b5c7" stroke-width="2">
+<circle cx="95" cy="210" r="12"/><circle cx="205" cy="125" r="10"/><circle cx="325" cy="180" r="14"/><circle cx="445" cy="92" r="10"/><circle cx="585" cy="155" r="12"/><circle cx="640" cy="275" r="9"/><circle cx="500" cy="320" r="13"/><circle cx="360" cy="265" r="11"/><circle cx="220" cy="320" r="9"/>
+</g>
+<circle cx="325" cy="180" r="27" fill="#c77b9b" fill-opacity=".3" filter="url(#g)"/><circle cx="325" cy="180" r="14" fill="#701a3d" stroke="#f4c6d8" stroke-width="2"><animate attributeName="r" values="12;18;12" dur="3s" repeatCount="indefinite"/></circle>
+<g fill="#e5b5c7" font-family="monospace" font-size="10" letter-spacing="2"><text x="32" y="42">EVENT GRAPH / V2</text><text x="495" y="386">SIGNAL PROPAGATION</text></g>
+</svg>

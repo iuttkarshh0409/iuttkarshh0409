@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="t d">
+<title id="t">AquaSentinel groundwater visualization</title><desc id="d">A stylized terrain and groundwater signal visualization.</desc>
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10070c"/><stop offset="1" stop-color="#30101f"/></linearGradient><linearGradient id="w" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#e5b5c7" stop-opacity=".5"/><stop offset="1" stop-color="#701a3d" stop-opacity=".05"/></linearGradient><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#e5b5c7" stroke-opacity=".06"/></pattern></defs>
+<rect width="720" height="420" rx="22" fill="url(#b)"/><rect width="720" height="420" rx="22" fill="url(#grid)"/>
+<path d="M0 180Q80 145 150 176T300 166T450 175T600 140T720 160V420H0Z" fill="#451126" fill-opacity=".65"/>
+<path d="M0 225Q80 190 150 222T300 210T450 222T600 190T720 205V420H0Z" fill="url(#w)"/>
+<g fill="none" stroke="#c77b9b" stroke-opacity=".75"><path d="M0 250Q80 220 150 250T300 238T450 250T600 220T720 238"/><path d="M0 286Q80 256 150 286T300 274T450 286T600 256T720 274"/><path d="M0 324Q80 294 150 324T300 312T450 324T600 294T720 312"/></g>
+<path d="M65 235L150 210L235 226L320 170L405 187L490 130L575 153L655 102" fill="none" stroke="#f4c6d8" stroke-width="3" stroke-linejoin="round"/>
+<g fill="#10070c" stroke="#f4c6d8" stroke-width="2"><circle cx="150" cy="210" r="6"/><circle cx="320" cy="170" r="6"/><circle cx="490" cy="130" r="6"/><circle cx="655" cy="102" r="6"/></g>
+<g fill="#e5b5c7" font-family="monospace" font-size="10" letter-spacing="2"><text x="32" y="42">FORECAST / DECISION SUPPORT</text><text x="32" y="390">OBSERVED → MODELLED → EXPLAINED</text></g>
+</svg>

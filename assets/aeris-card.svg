@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="250" viewBox="0 0 560 250" role="img" aria-labelledby="t d">
+<title id="t">AERIS V2</title><desc id="d">Deterministic Reliability Intelligence</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10070C"/><stop offset="1" stop-color="#451126"/></linearGradient><pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#E5B5C7" stroke-opacity=".06"/></pattern><filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="560" height="250" rx="15" fill="url(#bg)"/><rect width="560" height="250" rx="15" fill="url(#grid)"/>
+<path d="M24 24H536V226H24Z" fill="none" stroke="#C77B9B" stroke-opacity=".28"/>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="34" y="52" fill="#E5B5C7" font-size="10" letter-spacing="3">SYSTEM 01 / RELIABILITY</text><text x="34" y="91" fill="#F8F0F3" font-size="24" font-weight="700">AERIS V2</text><text x="34" y="116" fill="#C77B9B" font-size="12">Deterministic Reliability Intelligence</text><path d="M34 139H245" stroke="#701A3D" stroke-width="2"/><text x="34" y="204" fill="#E5B5C7" fill-opacity=".7" font-family="monospace" font-size="9">SYSTEM DESIGN / ITERATION</text></g>
+
+        <g fill="none" stroke="#C77B9B" stroke-opacity=".55">
+          <path d="M310 60H500V170H310Z"/><path d="M330 80H480M330 100H455M330 120H470M330 140H430"/>
+          <path d="M350 180L390 150L430 170L475 125" stroke="#E5B5C7" stroke-width="2"/>
+          <circle cx="350" cy="180" r="4" fill="#E5B5C7"/><circle cx="390" cy="150" r="4" fill="#E5B5C7"/><circle cx="430" cy="170" r="4" fill="#E5B5C7"/><circle cx="475" cy="125" r="4" fill="#E5B5C7"/>
+          <path d="M300 205H500" stroke-dasharray="3 7"/>
+        </g>
+        <circle cx="430" cy="170" r="13" fill="#701A3D" fill-opacity=".55" stroke="#E5B5C7">
+          <animate attributeName="r" values="9;16;9" dur="3s" repeatCount="indefinite"/>
+        </circle>
+<circle cx="512" cy="42" r="4" fill="#E5B5C7" filter="url(#glow)"><animate attributeName="opacity" values=".2;1;.2" dur="2.4s" repeatCount="indefinite"/></circle>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-labelledby="title desc">
+<title id="title">Build with intention</title>
+<desc id="desc">A restrained animated burgundy footer with a moving waveform and a glowing central signal.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#10070C"/><stop offset=".5" stop-color="#451126"/><stop offset="1" stop-color="#10070C"/></linearGradient>
+ <linearGradient id="wave"><stop stop-color="#701A3D" stop-opacity="0"/><stop offset=".5" stop-color="#E5B5C7"/><stop offset="1" stop-color="#701A3D" stop-opacity="0"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="4"/></filter>
+</defs>
+<rect width="1200" height="180" rx="16" fill="url(#bg)"/>
+<g fill="none" stroke="#C77B9B" stroke-opacity=".35">
+ <path d="M0 40H1200M0 140H1200"/>
+ <path d="M70 90H1130" stroke-dasharray="2 8"/>
+</g>
+<path d="M60 90 Q120 90 150 70 T240 90 T330 110 T420 90 T510 72 T600 90 T690 108 T780 90 T870 70 T960 90 T1050 108 T1140 90" fill="none" stroke="#E5B5C7" stroke-opacity=".3" stroke-width="2"/>
+<path d="M60 90 Q120 90 150 70 T240 90 T330 110 T420 90 T510 72 T600 90 T690 108 T780 90 T870 70 T960 90 T1050 108 T1140 90" fill="none" stroke="url(#wave)" stroke-width="3" stroke-dasharray="90 1110" filter="url(#glow)">
+ <animate attributeName="stroke-dashoffset" values="1200;0" dur="6s" repeatCount="indefinite"/>
+</path>
+<circle cx="600" cy="90" r="7" fill="#E5B5C7" filter="url(#glow)"><animate attributeName="r" values="5;10;5" dur="2.2s" repeatCount="indefinite"/></circle>
+<g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
+ <text x="600" y="38" fill="#E5B5C7" font-size="12" letter-spacing="5">END OF TRANSMISSION</text>
+ <text x="600" y="133" fill="#F8F0F3" font-size="18" font-weight="600" letter-spacing="2">BUILD WITH INTENTION. SHIP WITH CARE.</text>
+</g>
+</svg>
